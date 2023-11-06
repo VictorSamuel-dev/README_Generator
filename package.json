@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorSamuel-dev/README_Generator.git"
+  },
   "author": "Victor Samuel",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorSamuel-dev/README_Generator.git"
+  },
+  "homepage": "https://github.com/VictorSamuel-dev/README_Generator.git",
   "dependencies": {
     "inquirer": "^8.2.4"
   }
