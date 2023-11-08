@@ -24,9 +24,11 @@ Markdown, Javascript, Node, JSON
 ## Contributors
 N/A
 ## Testing
-```
-N/A
-```
+*https://www.loom.com/share/35cf0bd78d0e480b8366827f3721abde?sid=75dafce0-5b98-4047-ac47-f5d3e2d30d0b*
+
 ## License
       
       Licensed under the MIT license.
+
+## Deployed Link
+*https://victorsamuel-dev.github.io/README_Generator/*
