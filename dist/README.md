@@ -1,4 +1,4 @@
-# ReadMe Generator
+# SVG LOGO MAKER
 by Victor Samuel
 ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.$vg)
 ## Table of contents
@@ -12,17 +12,17 @@ by Victor Samuel
 * [License](#license)
 
 ## Description
-This ReadMe.md generator was created by using Node.js and inquirer(an NPM product). This app automatically generate professional Readme.
+This is a logo creator making SVG logos by taking users inputs
 ## Requirements
 undefined
 ## Usage
-Markdown, Javascript, Node, JSON
+Node.js, JavaScript
 ## Contact-Me
 * Name - Victor Samuel
-* Email - Johndoe@gmail.com
+* Email - victorsamuel196@gmail.com
 * GitHub - [VictorSamuel-dev](https://github.com/VictorSamuel-dev/)
 ## Contributors
-N/A
+none
 ## Testing
 ```
 N/A

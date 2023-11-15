@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !== "name"){
-    return `![GitHub license](https://img.shields.io/badge/license-${license}-yellowgreen.$vg)`;
+    return `![GitHub license](https://img.shields.io/badge/license-${license}-yellowgreen)`;
   }
   return "";
 }
